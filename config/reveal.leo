@@ -44,6 +44,7 @@
 <v t="leo.20210423020508.1"><vh>newHeadline</vh></v>
 <v t="leo.20210423020509.1"><vh>newHeadline</vh></v>
 <v t="leo.20210423020509.2"><vh>newHeadline</vh></v>
+<v t="leo.20210423134208.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -198,7 +199,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
             &lt;h2&gt;協同產品設計實習 報告&lt;/h2&gt;
-            &lt;h2&gt;stage1-bg12&lt;/h2&gt;
+            &lt;h2&gt;stage2-bg10&lt;/h2&gt;
         &lt;p&gt;&lt;small&gt;成員40823202,40823203,40823222,40823244&lt;/small&gt; &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
@@ -360,5 +361,9 @@ vertical: body pane on the botton</t>
             &lt;h10&gt;解決:將軌道向左偏移。 &lt;h10&gt;
         &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/TM7NensJHdE" title="YouTube video player" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
+<t tx="leo.20210423134208.1">&lt;section&gt;
+            &lt;h2&gt;pdf&lt;/h2&gt;
+        &lt;p&gt;https://drive.google.com/file/d/1Hf9NF7iBP-SSd2hPcL0cy-5rYRiG-HYu/view &lt;/p&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
